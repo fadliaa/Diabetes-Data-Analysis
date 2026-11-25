@@ -1,0 +1,676 @@
+Date,Drug,Reaction,Patient_Age,Sex
+20241016,Metformin,Blood Glucose Increased,185,0
+20230523,Pioglitazone,Vomiting,62,2
+20230202,Metformin,Nausea,54,1
+20240728,Insulin Glargine,Headache,49,2
+20230107,Pioglitazone,Hypoglycaemia,55,2
+20231215,Semaglutide,Nausea,58,2
+20230410,Empagliflozin,Diarrhoea,51,2
+20230214,Dapagliflozin,Dizziness,70,2
+20241005,Glimepiride,Decreased Appetite,55,1
+20230313,Metformin,Nausea,56,1
+20230414,Empagliflozin,Fatigue,63,2
+20230616,Empagliflozin,Nausea,54,1
+20240915,Liraglutide,Dizziness,88,1
+20230617,Sitagliptin,Nausea,75,1
+20241202,Semaglutide,Blood Glucose Increased,49,1
+20230823,Canagliflozin,Abdominal Pain,54,2
+20230806,Liraglutide,Diarrhoea,60,2
+20230527,Semaglutide,Nausea,48,2
+20240820,Empagliflozin,Nausea,54,1
+20240605,Sitagliptin,Blood Glucose Increased,62,0
+20241127,Empagliflozin,Hypoglycaemia,52,2
+20240902,Tirzepatide,Dizziness,83,1
+20241127,Dapagliflozin,Vomiting,53,2
+20241018,Semaglutide,Nausea,58,2
+20240527,Pioglitazone,Fatigue,58,1
+20241002,Semaglutide,Headache,52,1
+20240706,Exenatide,Injection Site Reaction,53,1
+20240905,Semaglutide,Hypoglycaemia,82,2
+20230903,Metformin,Decreased Appetite,46,1
+20230329,Pioglitazone,Abdominal Pain,73,1
+20230512,Liraglutide,Dehydration,55,1
+20230929,Dulaglutide,Headache,87,1
+20231116,Empagliflozin,Vomiting,51,2
+20240324,Linagliptin,Fatigue,58,1
+20240825,Dulaglutide,Dizziness,62,1
+20230314,Dapagliflozin,Hypoglycaemia,60,2
+20230314,Dulaglutide,Nausea,59,2
+20230808,Dulaglutide,Vomiting,unknown,1
+20240429,Insulin Lispro,Nausea,69,unknown
+20240225,Sitagliptin,Vomiting,65,1
+20230304,Empagliflozin,Diarrhoea,64,1
+20240703,Sitagliptin,Diarrhoea,50,2
+20240418,Semaglutide,Injection Site Reaction,33,1
+20230221,Liraglutide,Dizziness,67,1
+20230406,Glipizide,Decreased Appetite,65,1
+20240215,Linagliptin,Hypoglycaemia,70,1
+20240204,Semaglutide,Blood Glucose Increased,44,2
+20230608,Insulin Glargine,Nausea,61,1
+20240816,Pioglitazone,Hypoglycaemia,56,2
+20240529,Glipizide,Dizziness,61,1
+20240604,Metformin,Nausea,41,1
+20240218,Metformin,Decreased Appetite,47,1
+20240815,Glimepiride,Headache,42,2
+20230925,Insulin Glargine,Vomiting,66,1
+20230929,Empagliflozin,Vomiting,54,1
+20230110,Sitagliptin,Weight Decreased,68,1
+20230317,Dulaglutide,Fatigue,66,1
+20230908,Empagliflozin,Hypoglycaemia,66,Unknown
+20241221,Semaglutide,Weight Decreased,63,2
+20241110,Metformin,Decreased Appetite,43,2
+20230429,Linagliptin,Blood Glucose Increased,63,1
+20231218,Insulin Glargine,Headache,66,2
+20240601,Sitagliptin,Injection Site Reaction,61,2
+20231011,Metformin,Diarrhoea,53,1
+20241014,Tirzepatide,Hypoglycaemia,39,1
+20230425,Metformin,Decreased Appetite,65,1
+20240712,Metformin,Diarrhoea,44,1
+20231112,Empagliflozin,Dehydration,53,1
+20240102,Insulin Glargine,Nausea,76,2
+20240927,Pioglitazone,Injection Site Reaction,71,1
+20230616,Tirzepatide,Abdominal Pain,60,2
+20240226,Insulin Lispro,Decreased Appetite,56,1
+20231001,Insulin Glargine,Vomiting,55,2
+20230816,Insulin Glargine,Injection Site Reaction,60,2
+20231109,Canagliflozin,Decreased Appetite,185,1
+20241106,Insulin Glargine,Diarrhoea,80,2
+20231226,Liraglutide,Diarrhoea,32,Unknown
+20231206,Glipizide,Hypoglycaemia,66,2
+20230209,Metformin,Fatigue,56,2
+20240322,Glimepiride,Fatigue,45,2
+20230215,Dapagliflozin,Hypoglycaemia,69,1
+20240108,Sitagliptin,Dehydration,73,1
+20231104,Dulaglutide,Headache,49,2
+20240217,Dapagliflozin,Dizziness,64,2
+20241124,Pioglitazone,Nausea,75,2
+20240220,Dulaglutide,Hypoglycaemia,54,2
+20240421,Sitagliptin,Vomiting,71,2
+20230623,Liraglutide,Nausea,48,1
+20230829,Liraglutide,Nausea,42,1
+20230531,Metformin,Nausea,32,1
+20240411,Empagliflozin,Headache,61,1
+20241214,Empagliflozin,Diarrhoea,69,1
+20240311,Insulin Glargine,Abdominal Pain,73,2
+20230221,Dulaglutide,Injection Site Reaction,63,2
+20241114,Dulaglutide,Dizziness,62,2
+20240329,Glimepiride,Vomiting,33,Unknown
+20240401,Linagliptin,Blood Glucose Increased,57,2
+20240405,Semaglutide,Nausea,43,2
+20241003,Insulin Glargine,Fatigue,41,2
+20230829,Semaglutide,Diarrhoea,51,1
+20240128,Dapagliflozin,Vomiting,56,1
+20240229,Empagliflozin,Dizziness,50,2
+20240203,Linagliptin,Dizziness,62,1
+20240812,Empagliflozin,Hypoglycaemia,45,2
+20240705,Pioglitazone,Dizziness,75,1
+20240514,Insulin Glargine,Fatigue,69,2
+20230619,Canagliflozin,Injection Site Reaction,60,1
+20240208,Glimepiride,Headache,69,2
+20230706,Metformin,Diarrhoea,64,1
+20240410,Semaglutide,Blood Glucose Increased,42,2
+20230916,Canagliflozin,Fatigue,72,1
+20231225,Insulin Glargine,Hypoglycaemia,142,1
+20230911,Insulin Glargine,Hypoglycaemia,61,1
+20240731,Exenatide,Fatigue,63,2
+20240113,Insulin Glargine,Headache,57,0
+20231115,Metformin,Hypoglycaemia,51,2
+20240812,Liraglutide,Ketoacidosis,41,1
+20240829,Dapagliflozin,Headache,70,1
+20241214,Pioglitazone,Decreased Appetite,52,1
+20231222,Dulaglutide,Headache,54,1
+20240602,Liraglutide,Hypoglycaemia,44,2
+20240106,Liraglutide,Abdominal Pain,65,1
+20240321,Insulin Glargine,Fatigue,47,2
+20240421,Sitagliptin,Vomiting,43,2
+20231127,Canagliflozin,Abdominal Pain,80,1
+20240420,Glimepiride,Headache,71,2
+20230130,Sitagliptin,Diarrhoea,45,2
+20231215,Semaglutide,Dizziness,58,2
+20240723,Metformin,Dehydration,75,2
+20240722,Pioglitazone,Vomiting,68,2
+20240403,Insulin Lispro,Hypoglycaemia,61,2
+20241110,Glimepiride,Fatigue,77,2
+20240311,Tirzepatide,Dizziness,49,2
+20230915,Insulin Glargine,Vomiting,69,unknown
+20230503,Pioglitazone,Dehydration,54,2
+20231011,Dapagliflozin,Ketoacidosis,50,2
+20230413,Canagliflozin,Nausea,50,1
+20231008,Metformin,Hypoglycaemia,66,2
+20241215,Exenatide,Headache,58,1
+20240810,Semaglutide,Fatigue,51,2
+20230708,Tirzepatide,Nausea,62,1
+20240215,Sitagliptin,Dizziness,53,1
+20230605,Insulin Glargine,Dizziness,44,1
+20240725,Pioglitazone,Headache,92,1
+20240619,Empagliflozin,Injection Site Reaction,52,2
+20231109,Dulaglutide,Hypoglycaemia,74,1
+20230801,Glimepiride,Nausea,66,1
+20230610,Metformin,Fatigue,62,2
+20231026,Metformin,Nausea,-5,2
+20230314,Dapagliflozin,Injection Site Reaction,62,1
+20240311,Metformin,Nausea,40,1
+20230930,Canagliflozin,Hypoglycaemia,63,2
+20240325,Metformin,Vomiting,67,Unknown
+20240217,Exenatide,Fatigue,52,1
+20240318,Pioglitazone,Headache,58,1
+20230404,Insulin Glargine,Vomiting,69,1
+20241119,Canagliflozin,Dizziness,44,1
+20240426,Dulaglutide,Fatigue,50,2
+20241012,Insulin Lispro,Ketoacidosis,92,2
+20231223,Empagliflozin,Diarrhoea,64,2
+20241211,Sitagliptin,Headache,62,2
+20240717,Metformin,Hypoglycaemia,57,2
+20240610,Canagliflozin,Hypoglycaemia,64,2
+20240228,Metformin,Fatigue,47,2
+20230222,Insulin Glargine,Dizziness,47,2
+20240324,Acarbose,Fatigue,76,1
+20230612,Semaglutide,Hypoglycaemia,61,2
+20230406,Insulin Glargine,Abdominal Pain,81,1
+20240525,Glipizide,Nausea,78,2
+20240301,Canagliflozin,Ketoacidosis,58,2
+20230715,Glipizide,Fatigue,74,1
+20230313,Semaglutide,Blood Glucose Increased,31,Unknown
+20231001,Canagliflozin,Nausea,73,2
+20240824,Glimepiride,Headache,67,2
+20231220,Semaglutide,Blood Glucose Increased,47,2
+20240411,Glipizide,Decreased Appetite,67,2
+20230828,Acarbose,Diarrhoea,56,2
+20240429,Dapagliflozin,Abdominal Pain,43,1
+20240522,Tirzepatide,Hypoglycaemia,70,2
+20230413,Acarbose,Fatigue,43,1
+20240224,Acarbose,Ketoacidosis,55,1
+20240425,Insulin Lispro,Nausea,48,1
+20231203,Canagliflozin,Decreased Appetite,48,2
+20231121,Glimepiride,Decreased Appetite,41,1
+20230829,Liraglutide,Injection Site Reaction,59,1
+20230403,Sitagliptin,Hypoglycaemia,142,2
+20230620,Dapagliflozin,Injection Site Reaction,80,2
+20240103,Empagliflozin,Hypoglycaemia,64,2
+20240802,Dapagliflozin,Nausea,66,2
+20240926,Dapagliflozin,Fatigue,73,1
+20230826,Sitagliptin,Nausea,57,unknown
+20231022,Liraglutide,Hypoglycaemia,59,2
+20231220,Tirzepatide,Nausea,77,2
+20231106,Insulin Glargine,Diarrhoea,53,2
+20230420,Insulin Glargine,Dizziness,21,2
+20230123,Tirzepatide,Headache,39,2
+20230109,Dulaglutide,Vomiting,57,2
+20231021,Insulin Lispro,Nausea,53,2
+20230813,Liraglutide,Headache,48,1
+20241005,Metformin,Headache,39,1
+20231113,Insulin Lispro,Hypoglycaemia,53,2
+20231201,Pioglitazone,Nausea,63,1
+20240706,Acarbose,Diarrhoea,47,1
+20230921,Glipizide,Dehydration,57,2
+20231213,Insulin Lispro,Fatigue,77,1
+20241123,Dapagliflozin,Ketoacidosis,67,2
+20230403,Insulin Lispro,Hypoglycaemia,44,2
+20240821,Empagliflozin,Headache,54,2
+20230421,Liraglutide,Fatigue,35,2
+20240916,Insulin Glargine,Hypoglycaemia,36,unknown
+20241218,Semaglutide,Diarrhoea,78,2
+20240519,Metformin,Nausea,82,1
+20240202,Sitagliptin,Vomiting,56,2
+20240824,Pioglitazone,Hypoglycaemia,26,2
+20241101,Metformin,Fatigue,31,1
+20241207,Empagliflozin,Fatigue,75,1
+20240107,Metformin,Vomiting,23,2
+20230304,Empagliflozin,Nausea,48,1
+20240410,Metformin,Nausea,35,1
+20231208,Semaglutide,Hypoglycaemia,31,1
+20230312,Canagliflozin,Dizziness,37,1
+20231203,Insulin Lispro,Blood Glucose Increased,45,1
+20231011,Acarbose,Hypoglycaemia,185,2
+20230628,Metformin,Decreased Appetite,66,1
+20240825,Semaglutide,Nausea,67,1
+20230510,Pioglitazone,Dizziness,57,2
+20240609,Glimepiride,Fatigue,43,1
+20240921,Metformin,Blood Glucose Increased,68,2
+20241020,Tirzepatide,Hypoglycaemia,46,unknown
+20240216,Empagliflozin,Hypoglycaemia,54,1
+20231126,Glimepiride,Hypoglycaemia,44,2
+20241001,Liraglutide,Dizziness,38,2
+20240409,Dulaglutide,Diarrhoea,92,1
+20241101,Liraglutide,Blood Glucose Increased,56,2
+20230822,Empagliflozin,Abdominal Pain,49,2
+20240301,Dapagliflozin,Nausea,54,1
+20241204,Glipizide,Hypoglycaemia,67,1
+20230406,Sitagliptin,Blood Glucose Increased,53,1
+20240823,Exenatide,Dizziness,62,1
+20240225,Empagliflozin,Headache,58,1
+20231022,Glimepiride,Diarrhoea,31,1
+20230608,Liraglutide,Nausea,77,2
+20230428,Pioglitazone,Dizziness,73,2
+20240728,Tirzepatide,Abdominal Pain,43,1
+20240915,Glipizide,Abdominal Pain,45,2
+20230130,Insulin Glargine,Vomiting,53,1
+20230705,Acarbose,Dizziness,69,2
+20230313,Insulin Glargine,Headache,79,0
+20240121,Empagliflozin,Diarrhoea,62,2
+20231116,Dapagliflozin,Blood Glucose Increased,53,1
+20230609,Insulin Glargine,Headache,55,1
+20231006,Sitagliptin,Diarrhoea,47,1
+20240608,Metformin,Diarrhoea,49,2
+20241125,Liraglutide,Fatigue,56,2
+20240905,Metformin,Nausea,54,1
+20230521,Pioglitazone,Nausea,69,2
+20230629,Metformin,Dizziness,68,1
+20240527,Dulaglutide,Headache,50,1
+20240322,Metformin,Injection Site Reaction,68,2
+20240812,Empagliflozin,Diarrhoea,unknown,2
+20230428,Empagliflozin,Ketoacidosis,72,2
+20241207,Glipizide,Hypoglycaemia,85,1
+20230907,Sitagliptin,Diarrhoea,81,2
+20230815,Semaglutide,Hypoglycaemia,70,1
+20240627,Dulaglutide,Injection Site Reaction,45,1
+20230830,Metformin,Nausea,75,1
+20240908,Insulin Glargine,Blood Glucose Increased,86,Unknown
+20240520,Sitagliptin,Dizziness,72,2
+20241128,Glipizide,Dizziness,45,2
+20230604,Sitagliptin,Fatigue,44,2
+20231009,Glimepiride,Diarrhoea,70,1
+20230228,Empagliflozin,Nausea,64,1
+20240921,Glimepiride,Diarrhoea,29,1
+20240405,Linagliptin,Dizziness,42,1
+20231126,Glimepiride,Fatigue,71,2
+20230328,Dulaglutide,Nausea,54,1
+20240324,Tirzepatide,Fatigue,48,2
+20240201,Empagliflozin,Diarrhoea,50,1
+20241008,Liraglutide,Hypoglycaemia,74,2
+20230916,Dapagliflozin,Headache,68,1
+20231208,Metformin,Headache,67,2
+20230513,Glimepiride,Dehydration,52,2
+20240726,Empagliflozin,Blood Glucose Increased,65,1
+20241023,Liraglutide,Fatigue,40,1
+20240107,Semaglutide,Dehydration,45,1
+20230820,Tirzepatide,Hypoglycaemia,76,unknown
+20230414,Dulaglutide,Dizziness,56,2
+20240924,Metformin,Diarrhoea,42,1
+20230705,Canagliflozin,Blood Glucose Increased,60,2
+20230214,Empagliflozin,Vomiting,50,1
+20240330,Glimepiride,Blood Glucose Increased,60,1
+20231113,Tirzepatide,Blood Glucose Increased,48,1
+20240112,Liraglutide,Dizziness,37,2
+20240529,Dulaglutide,Ketoacidosis,66,1
+20240911,Insulin Glargine,Nausea,41,1
+20240612,Canagliflozin,Nausea,37,1
+20231007,Sitagliptin,Fatigue,unknown,1
+20230816,Insulin Lispro,Decreased Appetite,70,2
+20240529,Empagliflozin,Diarrhoea,52,1
+20240119,Insulin Glargine,Diarrhoea,74,2
+20230530,Insulin Glargine,Nausea,70,2
+20241213,Canagliflozin,Blood Glucose Increased,40,1
+20230120,Semaglutide,Abdominal Pain,61,2
+20230424,Insulin Lispro,Nausea,64,2
+20230306,Metformin,Injection Site Reaction,64,Unknown
+20240702,Metformin,Fatigue,58,2
+20230102,Glimepiride,Nausea,65,2
+20230711,Liraglutide,Hypoglycaemia,62,1
+20240204,Acarbose,Hypoglycaemia,57,2
+20240118,Semaglutide,Hypoglycaemia,60,1
+20240818,Pioglitazone,Diarrhoea,46,1
+20231227,Dulaglutide,Abdominal Pain,68,2
+20241213,Sitagliptin,Nausea,78,1
+20230306,Dapagliflozin,Dehydration,66,1
+20230212,Semaglutide,Nausea,60,2
+20240710,Sitagliptin,Hypoglycaemia,51,1
+20241102,Semaglutide,Hypoglycaemia,49,2
+20240323,Linagliptin,Blood Glucose Increased,68,1
+20240523,Dapagliflozin,Diarrhoea,50,2
+20230326,Dapagliflozin,Hypoglycaemia,38,2
+20231125,Metformin,Diarrhoea,43,2
+20231110,Sitagliptin,Vomiting,65,2
+20230213,Dapagliflozin,Injection Site Reaction,70,2
+20231009,Liraglutide,Blood Glucose Increased,76,unknown
+20240108,Dulaglutide,Blood Glucose Increased,64,1
+20230201,Insulin Glargine,Headache,58,1
+20230830,Insulin Lispro,Diarrhoea,54,2
+20240803,Metformin,Hypoglycaemia,46,2
+20230320,Glimepiride,Dizziness,61,2
+20231118,Liraglutide,Nausea,74,2
+20240614,Empagliflozin,Dizziness,71,2
+20230924,Dapagliflozin,Nausea,42,2
+20230724,Metformin,Decreased Appetite,45,2
+20230626,Linagliptin,Fatigue,142,2
+20241114,Empagliflozin,Hypoglycaemia,31,1
+20241218,Liraglutide,Blood Glucose Increased,50,1
+20230505,Tirzepatide,Blood Glucose Increased,59,2
+20240721,Glimepiride,Fatigue,73,1
+20240918,Linagliptin,Hypoglycaemia,41,2
+20240622,Empagliflozin,Diarrhoea,70,1
+20230509,Tirzepatide,Headache,39,2
+20230512,Acarbose,Blood Glucose Increased,64,1
+20230513,Sitagliptin,Injection Site Reaction,64,0
+20231108,Insulin Glargine,Diarrhoea,60,1
+20231221,Exenatide,Fatigue,56,1
+20241012,Exenatide,Nausea,63,2
+20240921,Dulaglutide,Fatigue,73,1
+20230625,Liraglutide,Vomiting,85,2
+20240731,Metformin,Decreased Appetite,85,2
+20241028,Insulin Glargine,Dizziness,73,1
+20240524,Linagliptin,Dizziness,51,1
+20241202,Empagliflozin,Fatigue,49,1
+20230611,Sitagliptin,Fatigue,63,2
+20231123,Pioglitazone,Decreased Appetite,75,2
+20230514,Pioglitazone,Fatigue,65,1
+20231001,Sitagliptin,Hypoglycaemia,63,1
+20231025,Exenatide,Decreased Appetite,28,1
+20231202,Glipizide,Vomiting,74,1
+20230613,Sitagliptin,Fatigue,46,1
+20230403,Exenatide,Fatigue,58,1
+20230809,Glimepiride,Hypoglycaemia,54,2
+20231020,Dulaglutide,Abdominal Pain,75,unknown
+20230518,Acarbose,Vomiting,59,2
+20230222,Glimepiride,Nausea,45,2
+20230317,Empagliflozin,Fatigue,34,1
+20230512,Tirzepatide,Diarrhoea,50,2
+20240725,Glipizide,Blood Glucose Increased,62,1
+20230216,Metformin,Vomiting,72,2
+20240615,Sitagliptin,Headache,46,2
+20230616,Empagliflozin,Headache,56,2
+20240830,Semaglutide,Abdominal Pain,unknown,2
+20240501,Insulin Lispro,Diarrhoea,41,2
+20241205,Liraglutide,Dizziness,25,2
+20241102,Insulin Lispro,Blood Glucose Increased,39,2
+20230624,Dulaglutide,Vomiting,48,2
+20230601,Canagliflozin,Nausea,39,1
+20230120,Sitagliptin,Diarrhoea,49,2
+20241208,Insulin Glargine,Fatigue,46,1
+20230522,Dulaglutide,Dizziness,48,2
+20240622,Empagliflozin,Dehydration,42,2
+20241123,Pioglitazone,Vomiting,62,Unknown
+20241210,Semaglutide,Fatigue,68,2
+20230819,Glipizide,Ketoacidosis,55,2
+20230801,Dapagliflozin,Fatigue,41,2
+20231022,Metformin,Vomiting,60,2
+20240209,Canagliflozin,Dehydration,61,2
+20230322,Empagliflozin,Fatigue,47,2
+20240505,Insulin Glargine,Abdominal Pain,55,2
+20230521,Metformin,Blood Glucose Increased,74,1
+20230906,Metformin,Injection Site Reaction,59,1
+20240228,Semaglutide,Fatigue,67,1
+20230106,Tirzepatide,Ketoacidosis,68,2
+20240503,Liraglutide,Blood Glucose Increased,73,2
+20231125,Semaglutide,Hypoglycaemia,60,1
+20240701,Pioglitazone,Decreased Appetite,39,1
+20230629,Empagliflozin,Abdominal Pain,61,2
+20240522,Insulin Glargine,Blood Glucose Increased,56,2
+20230208,Metformin,Dizziness,86,2
+20240410,Tirzepatide,Dizziness,81,2
+20230518,Canagliflozin,Fatigue,60,0
+20240414,Liraglutide,Vomiting,63,1
+20231212,Insulin Lispro,Dizziness,58,2
+20240313,Dulaglutide,Hypoglycaemia,49,1
+20230709,Tirzepatide,Fatigue,59,2
+20230830,Sitagliptin,Nausea,57,2
+20231106,Glimepiride,Dizziness,57,1
+20230305,Liraglutide,Fatigue,70,1
+20240220,Dapagliflozin,Injection Site Reaction,-5,1
+20241016,Glipizide,Nausea,51,1
+20240504,Insulin Glargine,Blood Glucose Increased,51,2
+20240301,Dapagliflozin,Injection Site Reaction,59,1
+20230911,Dapagliflozin,Dizziness,34,1
+20240622,Sitagliptin,Vomiting,72,1
+20240714,Linagliptin,Nausea,65,1
+20230618,Semaglutide,Fatigue,64,2
+20230404,Linagliptin,Fatigue,63,1
+20240409,Insulin Glargine,Diarrhoea,42,2
+20230123,Empagliflozin,Abdominal Pain,51,1
+20240815,Metformin,Diarrhoea,53,0
+20230312,Tirzepatide,Fatigue,42,2
+20240223,Insulin Glargine,Hypoglycaemia,44,2
+20240119,Tirzepatide,Diarrhoea,41,2
+20240120,Metformin,Ketoacidosis,62,2
+20230502,Insulin Glargine,Dizziness,53,1
+20230817,Canagliflozin,Blood Glucose Increased,72,2
+20240628,Empagliflozin,Nausea,56,2
+20231221,Insulin Glargine,Nausea,73,1
+20241107,Empagliflozin,Blood Glucose Increased,42,1
+20230904,Insulin Glargine,Hypoglycaemia,75,1
+20230908,Pioglitazone,Diarrhoea,61,1
+20240706,Insulin Glargine,Decreased Appetite,72,2
+20230828,Insulin Lispro,Vomiting,63,2
+20240814,Glimepiride,Vomiting,53,1
+20241107,Dulaglutide,Diarrhoea,67,2
+20230304,Dulaglutide,Dizziness,57,2
+20240723,Sitagliptin,Ketoacidosis,49,2
+20240621,Semaglutide,Diarrhoea,65,2
+20230904,Canagliflozin,Nausea,68,Unknown
+20230528,Insulin Lispro,Injection Site Reaction,26,1
+20240202,Semaglutide,Nausea,44,1
+20240405,Canagliflozin,Hypoglycaemia,56,2
+20240122,Liraglutide,Headache,49,1
+20230712,Insulin Lispro,Dizziness,53,1
+20231207,Semaglutide,Injection Site Reaction,49,1
+20230714,Exenatide,Hypoglycaemia,unknown,1
+20241213,Glimepiride,Nausea,72,2
+20240125,Sitagliptin,Headache,49,2
+20230925,Empagliflozin,Decreased Appetite,35,2
+20231124,Glipizide,Diarrhoea,62,2
+20230216,Dulaglutide,Nausea,64,2
+20231030,Insulin Glargine,Diarrhoea,66,2
+20240806,Canagliflozin,Fatigue,46,2
+20240515,Tirzepatide,Headache,41,2
+20240416,Insulin Glargine,Blood Glucose Increased,68,2
+20230708,Glipizide,Dizziness,76,1
+20240620,Metformin,Abdominal Pain,76,1
+20240227,Insulin Glargine,Headache,51,0
+20230604,Metformin,Fatigue,45,2
+20241106,Sitagliptin,Hypoglycaemia,70,2
+20230113,Metformin,Vomiting,47,2
+20230703,Metformin,Hypoglycaemia,55,1
+20230904,Insulin Glargine,Dizziness,62,2
+20230322,Empagliflozin,Diarrhoea,48,1
+20241214,Insulin Glargine,Vomiting,68,1
+20230406,Empagliflozin,Diarrhoea,42,2
+20230227,Liraglutide,Vomiting,79,2
+20240802,Tirzepatide,Ketoacidosis,70,1
+20230824,Insulin Glargine,Decreased Appetite,69,1
+20230318,Dapagliflozin,Nausea,48,1
+20230703,Glipizide,Diarrhoea,74,2
+20230320,Semaglutide,Dizziness,53,2
+20241124,Linagliptin,Diarrhoea,58,1
+20240527,Pioglitazone,Diarrhoea,50,1
+20240323,Insulin Glargine,Hypoglycaemia,43,2
+20231201,Metformin,Nausea,46,2
+20240517,Insulin Glargine,Dizziness,52,Unknown
+20241107,Empagliflozin,Blood Glucose Increased,63,2
+20230910,Dapagliflozin,Hypoglycaemia,69,1
+20240203,Semaglutide,Hypoglycaemia,74,1
+20231112,Sitagliptin,Blood Glucose Increased,62,2
+20240404,Dulaglutide,Fatigue,61,1
+20230127,Metformin,Dizziness,-5,2
+20230113,Semaglutide,Diarrhoea,82,1
+20240808,Dulaglutide,Vomiting,72,1
+20230523,Semaglutide,Nausea,62,2
+20240307,Semaglutide,Blood Glucose Increased,64,2
+20230915,Exenatide,Vomiting,40,2
+20230420,Insulin Glargine,Hypoglycaemia,58,2
+20231207,Canagliflozin,Diarrhoea,67,2
+20241028,Tirzepatide,Hypoglycaemia,47,2
+20240909,Exenatide,Nausea,44,2
+20231026,Pioglitazone,Headache,88,1
+20231130,Empagliflozin,Abdominal Pain,52,1
+20240829,Tirzepatide,Nausea,61,1
+20240417,Exenatide,Nausea,65,0
+20240223,Liraglutide,Hypoglycaemia,34,2
+20230905,Semaglutide,Hypoglycaemia,46,2
+20240904,Sitagliptin,Diarrhoea,63,2
+20240710,Metformin,Ketoacidosis,50,1
+20230422,Pioglitazone,Headache,35,2
+20230620,Liraglutide,Hypoglycaemia,77,2
+20231206,Tirzepatide,Diarrhoea,55,1
+20230411,Semaglutide,Fatigue,40,1
+20240401,Empagliflozin,Fatigue,55,1
+20231220,Tirzepatide,Fatigue,49,1
+20230429,Canagliflozin,Vomiting,86,2
+20231116,Empagliflozin,Blood Glucose Increased,46,1
+20240324,Dapagliflozin,Fatigue,56,1
+20231104,Metformin,Vomiting,69,1
+20241124,Insulin Lispro,Injection Site Reaction,59,1
+20240612,Insulin Glargine,Hypoglycaemia,27,1
+20240219,Liraglutide,Nausea,45,2
+20240210,Metformin,Headache,63,2
+20230105,Dapagliflozin,Nausea,74,Unknown
+20230306,Glimepiride,Abdominal Pain,45,1
+20240413,Metformin,Vomiting,55,2
+20240624,Tirzepatide,Nausea,48,1
+20231223,Empagliflozin,Fatigue,66,1
+20241120,Dapagliflozin,Nausea,142,1
+20231117,Metformin,Nausea,66,2
+20240304,Glimepiride,Dizziness,76,2
+20230710,Sitagliptin,Dizziness,84,1
+20240722,Insulin Glargine,Nausea,43,1
+20231119,Canagliflozin,Headache,79,2
+20230520,Insulin Glargine,Diarrhoea,34,2
+20240223,Dapagliflozin,Diarrhoea,66,1
+20240801,Metformin,Blood Glucose Increased,45,2
+20230203,Semaglutide,Dizziness,65,2
+20240716,Dulaglutide,Dizziness,70,2
+20240710,Canagliflozin,Diarrhoea,59,2
+20240713,Insulin Glargine,Diarrhoea,54,1
+20231101,Acarbose,Hypoglycaemia,55,1
+20240325,Acarbose,Hypoglycaemia,83,0
+20230803,Insulin Lispro,Dizziness,45,2
+20230619,Glimepiride,Blood Glucose Increased,74,1
+20230302,Glimepiride,Dizziness,51,2
+20231024,Glimepiride,Dehydration,53,1
+20230519,Exenatide,Blood Glucose Increased,92,1
+20241219,Acarbose,Nausea,38,2
+20230911,Pioglitazone,Vomiting,40,2
+20241004,Empagliflozin,Fatigue,59,1
+20240217,Dulaglutide,Nausea,69,2
+20231202,Glimepiride,Decreased Appetite,53,1
+20240414,Liraglutide,Vomiting,71,2
+20230812,Tirzepatide,Abdominal Pain,39,2
+20231002,Semaglutide,Nausea,51,2
+20231218,Linagliptin,Blood Glucose Increased,55,1
+20230412,Glimepiride,Abdominal Pain,87,1
+20240327,Sitagliptin,Weight Decreased,61,2
+20230727,Tirzepatide,Injection Site Reaction,66,2
+20230406,Liraglutide,Nausea,50,2
+20241111,Linagliptin,Hypoglycaemia,49,Unknown
+20230828,Empagliflozin,Hypoglycaemia,64,1
+20230102,Insulin Glargine,Hypoglycaemia,44,2
+20230110,Metformin,Diarrhoea,49,1
+20240308,Dapagliflozin,Fatigue,185,2
+20230402,Pioglitazone,Hypoglycaemia,47,1
+20240127,Pioglitazone,Blood Glucose Increased,82,1
+20241018,Tirzepatide,Hypoglycaemia,56,1
+20240326,Empagliflozin,Nausea,57,1
+20240226,Glimepiride,Fatigue,63,1
+20230507,Glimepiride,Diarrhoea,85,2
+20231119,Insulin Lispro,Nausea,51,2
+20241208,Metformin,Abdominal Pain,50,2
+20230730,Dulaglutide,Fatigue,57,1
+20230903,Sitagliptin,Hypoglycaemia,47,2
+20241015,Glimepiride,Dizziness,92,2
+20230516,Empagliflozin,Abdominal Pain,52,2
+20240110,Dulaglutide,Nausea,20,1
+20230118,Glimepiride,Hypoglycaemia,64,1
+20230210,Glipizide,Dehydration,49,Unknown
+20240528,Pioglitazone,Diarrhoea,64,2
+20230326,Liraglutide,Dizziness,61,1
+20240607,Glipizide,Ketoacidosis,62,1
+20240703,Semaglutide,Dizziness,59,1
+20231114,Dapagliflozin,Vomiting,39,1
+20230301,Semaglutide,Injection Site Reaction,71,1
+20231113,Liraglutide,Headache,69,1
+20230503,Metformin,Hypoglycaemia,73,2
+20240619,Dulaglutide,Abdominal Pain,59,2
+20230620,Empagliflozin,Blood Glucose Increased,72,1
+20230131,Semaglutide,Diarrhoea,42,1
+20230927,Dapagliflozin,Dizziness,70,2
+20230226,Sitagliptin,Dizziness,64,2
+20230611,Semaglutide,Hypoglycaemia,39,1
+20240605,Metformin,Decreased Appetite,48,1
+20230908,Metformin,Diarrhoea,65,1
+20240720,Insulin Lispro,Vomiting,54,2
+20230818,Semaglutide,Diarrhoea,56,1
+20240808,Empagliflozin,Fatigue,47,0
+20230703,Insulin Glargine,Fatigue,70,2
+20231017,Pioglitazone,Nausea,61,1
+20240720,Sitagliptin,Diarrhoea,-5,2
+20240929,Semaglutide,Diarrhoea,92,1
+20240713,Pioglitazone,Nausea,50,1
+20240224,Metformin,Dizziness,44,1
+20231210,Metformin,Headache,42,2
+20230417,Insulin Glargine,Weight Decreased,28,1
+20231014,Metformin,Injection Site Reaction,73,2
+20241218,Linagliptin,Fatigue,57,1
+20241014,Canagliflozin,Hypoglycaemia,40,1
+20240321,Liraglutide,Hypoglycaemia,51,2
+20241218,Canagliflozin,Diarrhoea,82,2
+20231006,Insulin Glargine,Dehydration,72,1
+20230609,Metformin,Fatigue,74,2
+20240221,Metformin,Diarrhoea,59,2
+20230929,Canagliflozin,Hypoglycaemia,43,2
+20241214,Glimepiride,Nausea,62,1
+20231231,Empagliflozin,Hypoglycaemia,52,unknown
+20230924,Canagliflozin,Nausea,82,1
+20230407,Sitagliptin,Abdominal Pain,50,1
+20230505,Metformin,Abdominal Pain,64,2
+20240117,Dapagliflozin,Dehydration,57,1
+20240819,Glimepiride,Injection Site Reaction,92,1
+20241023,Sitagliptin,Hypoglycaemia,78,2
+20230506,Metformin,Fatigue,66,2
+20240523,Metformin,Vomiting,72,1
+20231229,Insulin Glargine,Nausea,52,1
+20240920,Glimepiride,Nausea,84,2
+20240525,Empagliflozin,Dizziness,67,1
+20240305,Insulin Glargine,Decreased Appetite,61,1
+20241007,Tirzepatide,Dizziness,70,2
+20240506,Dulaglutide,Fatigue,59,2
+20240202,Semaglutide,Hypoglycaemia,55,2
+20230301,Insulin Lispro,Fatigue,56,2
+20240821,Tirzepatide,Ketoacidosis,73,2
+20240630,Insulin Lispro,Injection Site Reaction,69,1
+20230813,Glimepiride,Ketoacidosis,34,0
+20230630,Insulin Glargine,Diarrhoea,77,2
+20240828,Metformin,Vomiting,185,1
+20240519,Dulaglutide,Nausea,62,1
+20230121,Dulaglutide,Hypoglycaemia,59,1
+20230514,Semaglutide,Nausea,66,1
+20230123,Insulin Glargine,Vomiting,33,1
+20230424,Canagliflozin,Decreased Appetite,70,2
+20240823,Metformin,Nausea,54,1
+20230611,Pioglitazone,Fatigue,48,2
+20230628,Dapagliflozin,Dizziness,46,2
+20230817,Liraglutide,Abdominal Pain,42,2
+20230511,Insulin Glargine,Hypoglycaemia,72,2
+20240804,Metformin,Headache,87,1
+20241016,Dulaglutide,Dehydration,41,1
+20231206,Pioglitazone,Nausea,65,1
+20241117,Liraglutide,Decreased Appetite,57,2
+20230112,Semaglutide,Nausea,67,1
+20230102,Metformin,Fatigue,62,2
+20230620,Linagliptin,Fatigue,46,0
+20240505,Insulin Lispro,Dizziness,69,1
+20230616,Sitagliptin,Abdominal Pain,60,2
+20230418,Metformin,Nausea,58,2
+20241016,Metformin,Blood Glucose Increased,185,0
+20230523,Pioglitazone,Vomiting,62,2
+20230202,Metformin,Nausea,54,1
+20240728,Insulin Glargine,Headache,49,2
+20230107,Pioglitazone,Hypoglycaemia,55,2
+20231215,Semaglutide,Nausea,58,2
+20230410,Empagliflozin,Diarrhoea,51,2
+20230214,Dapagliflozin,Dizziness,70,2
+20241005,Glimepiride,Decreased Appetite,55,1
+20230313,Metformin,Nausea,56,1
+20230414,Empagliflozin,Fatigue,63,2
+20230616,Empagliflozin,Nausea,54,1
+20240915,Liraglutide,Dizziness,88,1
+20230617,Sitagliptin,Nausea,75,1
+20241202,Semaglutide,Blood Glucose Increased,49,1
+20230823,Canagliflozin,Abdominal Pain,54,2
+20230806,Liraglutide,Diarrhoea,60,2
+20230527,Semaglutide,Nausea,48,2
+20240820,Empagliflozin,Nausea,54,1
+20240605,Sitagliptin,Blood Glucose Increased,62,0
+20241127,Empagliflozin,Hypoglycaemia,52,2
+20240902,Tirzepatide,Dizziness,83,1
+20241127,Dapagliflozin,Vomiting,53,2
+20241018,Semaglutide,Nausea,58,2
+20240527,Pioglitazone,Fatigue,58,1
