@@ -11,13 +11,16 @@ Fixes & upgrades over the original notebook export:
 from __future__ import annotations
 
 import argparse
+import sys
+import warnings
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict
 
 import matplotlib
 
-matplotlib.use("Agg")  # Safe default for headless execution; overridden only if --show is set
+if "--show" not in sys.argv:
+    matplotlib.use("Agg")  # Safe default for headless execution unless --show is requested
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -69,6 +72,17 @@ def clean_dataset(df: pd.DataFrame, top_n_reactions: int = 10) -> tuple[pd.DataF
     unreported_sex_removed = before_sex_filter - len(cleaned)
 
     cleaned = cleaned.dropna(subset=["Patient_Age"]).reset_index(drop=True)
+    if cleaned.empty:
+        return cleaned, CleaningReport(
+            raw_rows=raw_rows,
+            duplicates_removed=duplicates_removed,
+            unreported_sex_removed=unreported_sex_removed,
+            age_outliers_removed=0,
+            final_rows=0,
+            age_lower_bound=0.0,
+            age_upper_bound=0.0,
+        )
+
     q1 = float(cleaned["Patient_Age"].quantile(0.25))
     q3 = float(cleaned["Patient_Age"].quantile(0.75))
     iqr = q3 - q1
@@ -100,6 +114,8 @@ def clean_dataset(df: pd.DataFrame, top_n_reactions: int = 10) -> tuple[pd.DataF
 
 def generate_visualizations(cleaned_df: pd.DataFrame, output_dir: Path, show: bool = False) -> Dict[str, Path]:
     """Generate and save core EDA plots into `output_dir`."""
+    if cleaned_df.empty:
+        raise ValueError("Cannot generate visualizations from an empty cleaned dataset.")
     output_dir.mkdir(parents=True, exist_ok=True)
     sns.set_style("whitegrid")
     saved: Dict[str, Path] = {}
@@ -142,7 +158,10 @@ def generate_visualizations(cleaned_df: pd.DataFrame, output_dir: Path, show: bo
 
     # 3. Patient Age by Sex Boxplot
     plt.figure(figsize=(8, 5))
-    sns.boxplot(x="Sex", y="Patient_Age", hue="Sex", data=cleaned_df, palette="Set2", legend=False)
+    with warnings.catch_warnings():
+        warnings.filterwarnings("ignore", category=PendingDeprecationWarning, module="seaborn")
+        warnings.filterwarnings("ignore", category=DeprecationWarning, module="seaborn")
+        sns.boxplot(x="Sex", y="Patient_Age", hue="Sex", data=cleaned_df, palette="Set2", legend=False)
     plt.title("Patient Age Distribution by Sex", fontsize=14, fontweight="bold")
     plt.xlabel("Sex")
     plt.ylabel("Patient Age (Years)")

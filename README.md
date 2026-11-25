@@ -1,6 +1,14 @@
 # FDA Diabetes Adverse-Event Data Analysis (EDA)
 
-A modular Python data-cleaning and Exploratory Data Analysis (EDA) pipeline built to inspect FDA diabetes drug adverse-event reports, remove noisy records, and visualize drug–reaction and demographic patterns.
+## What It Does
+
+A modular, reproducible Python data-cleaning and Exploratory Data Analysis (EDA) CLI pipeline built to inspect FDA diabetes drug adverse-event reports, eliminate duplicates and statistical age outliers (IQR), standardize demographic codes, and generate 6 publication-ready visualizations revealing drug–reaction and demographic patterns.
+
+## Tech Stack
+
+- **Language:** Python 3.11+
+- **Data & Visualization:** Pandas, Matplotlib, Seaborn
+- **Testing:** Python `unittest`
 
 ## Project Structure
 
@@ -28,9 +36,11 @@ A modular Python data-cleaning and Exploratory Data Analysis (EDA) pipeline buil
 
 ![Drug-Reaction Heatmap](outputs/05_drug_reaction_heatmap.png)
 
-## Quick Start
+## How to Run
 
 ```bash
+python -m venv .venv
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
 # Run on the bundled synthetic FDA-schema sample dataset

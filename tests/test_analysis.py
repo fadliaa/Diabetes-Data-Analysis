@@ -43,6 +43,20 @@ class TestDiabetesEDA(unittest.TestCase):
             for chart_path in charts.values():
                 self.assertTrue(chart_path.exists() and chart_path.stat().st_size > 1000)
 
+    def test_empty_after_filtering_handled_gracefully(self) -> None:
+        empty_sex_df = pd.DataFrame(
+            [
+                {"Date": "20240101", "Drug": "Metformin", "Reaction": "Nausea", "Patient_Age": "50", "Sex": "0"},
+                {"Date": "20240102", "Drug": "Metformin", "Reaction": "Nausea", "Patient_Age": "bad", "Sex": "1"},
+            ]
+        )
+        cleaned, report = clean_dataset(empty_sex_df)
+        self.assertEqual(report.final_rows, 0)
+        self.assertTrue(cleaned.empty)
+        with tempfile.TemporaryDirectory() as tmp:
+            with self.assertRaises(ValueError):
+                generate_visualizations(cleaned, Path(tmp) / "charts")
+
 
 if __name__ == "__main__":
     unittest.main()
